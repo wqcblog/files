@@ -10,7 +10,7 @@
 
 ## 文件收集
 
-[收集邮箱](bidxo4ldmn2go5iqairai6tjgg7q@m.jianguoyun.com)：以附件形式发送到此邮箱
+收集邮箱：以附件形式发送到此邮箱 bidxo4ldmn2go5iqairai6tjgg7q@m.jianguoyun.com
 
 [提交网址](https://share.wqcblog.run)：输入文件名(不带后缀)，上传文件
 
